@@ -1,2 +1,4 @@
 # hello-world
-Starting out in git.
+Hi, I'm Cem.
+
+This is my first attempt at learning how to use GitHub.
